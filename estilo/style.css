@@ -54,7 +54,7 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 nav {
     background-color: var(--cor-6);
@@ -160,7 +160,7 @@ aside h3 {
 aside > ul {
     list-style-type: square;
     list-style-position: inside;
-    columns: 2; /* número de colunas */
+    columns: 1; /* número de colunas */
 }
 footer {
     background-color: var(--cor-6);
